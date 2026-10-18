@@ -17,4 +17,4 @@ Designed using AutoCAD Electrical.
 - [PG 6.dwg](./PG%206.dwg)
 - [PG 7.dwg](./PG%207.dwg)
 
-> **Note:** `.dwg` files require AutoCAD or a compatible viewer (e.g. Autodesk Viewer, TrueView) to open.
+> **Note:** `.dwg` files require AutoCAD to open.
