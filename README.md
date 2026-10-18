@@ -1,6 +1,6 @@
 # Industrial Cold Rooms Control Panel
 
-Designed and implemented Electrical controls system for industrial cold rooms. The system includes multiple protection devices including phase failure protection to protect the compressor from running in unintended direction. Also include multiple warning/failure indicators to enhance fast troubleshooting.  
+Designed and implemented Electrical control system for industrial cold rooms. The system includes multiple protection devices including phase failure protection to protect the compressor from running in unintended direction. Also include multiple warning/failure indicators to enhance fast troubleshooting.  
 Designed using AutoCAD Electrical.
 
 ## Project Files
